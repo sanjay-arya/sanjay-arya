@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@sanjayarya&layout=compact&theme=prussian&hide_border=true" alt="Sanjay Arya"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-arya&layout=compact&count_private=true&theme=prussian&hide_border=true"alt="Sanjay Arya"/>
 </p>
 
