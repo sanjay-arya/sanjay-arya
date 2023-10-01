@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%23222222.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/nodejs-%23FFFFFF.svg?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/nestjs-%23090909.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Prisma](https://img.shields.io/badge/prisma-%231a202c.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
