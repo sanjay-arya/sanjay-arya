@@ -28,9 +28,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-arya&layout=compact&count_private=true&theme=prussian&hide_border=true"alt="Sanjay Arya"/>
 </p>
 
-<p align="center">
-  <a href="https://app.daily.dev/sanjay_arya">
-    <img src="https://api.daily.dev/devcards/6cb8f00a6f2e4f309eaa735d4a7198f1.png?r=3f2" width="400" alt="Sanjay Arya's Dev Card"/>
-  </a>
-</p>
-
