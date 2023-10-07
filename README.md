@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **React, Node.js, Ubuntu, Kubernetes**
 - 📫 How to reach me: [@sanjayttg](https://twitter.com/sanjayttg) on <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 
-- ⚡ Fun fact: I love coffee and I like to break things...
-
 ## I work with...
 
 ![React](https://img.shields.io/badge/react-%23222222.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
